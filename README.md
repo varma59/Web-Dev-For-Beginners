@@ -94,6 +94,9 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 A PDF of all of the lessons can be found [here](https://microsoft.github.io/Web-Dev-For-Beginners/pdf/readme.pdf)
 
+## Free Codecamp Code practise
+https://www.freecodecamp.org/learn/responsive-web-design/
+
 ## Other Curricula
 
 Our team produces other curricula! Check out:
